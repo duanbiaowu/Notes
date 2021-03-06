@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [软技能: 代码之外的生存指南精要](ruan-ji-neng-dai-ma-zhi-wai-de-sheng-cun-zhi-nan-jing-yao.md)
 
