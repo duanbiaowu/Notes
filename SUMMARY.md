@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [软技能: 代码之外的生存指南精要](ruan-ji-neng-dai-ma-zhi-wai-de-sheng-cun-zhi-nan-jing-yao.md)
 * [常用分析工具](chang-yong-fen-xi-gong-ju.md)
+* [Show Your Work](show-your-work.md)
 
