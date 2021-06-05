@@ -8,4 +8,5 @@
 * [深度阅读](shen-du-yue-du.md)
 * [人性的优点](ren-xing-de-you-dian.md)
 * [A/B测试：创新始于试验](ab-ce-shi-chuang-xin-shi-yu-shi-yan.md)
+* [运营之光](yun-ying-zhi-guang.md)
 
